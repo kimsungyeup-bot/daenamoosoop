@@ -1,0 +1,8 @@
+{
+  "short_name": "대나무숲",
+  "name": "대나무숲 - 익명 하소연 게시판",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0d1f0f",
+  "background_color": "#0d1f0f"
+}
